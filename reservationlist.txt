@@ -1,0 +1,5 @@
+Diana	Topuz	04.03.1995	Regerelstr	8	Burghausen	4589	4	Suzuki
+Rmiros	Kikanava	03.16.1995	Boliwood	4	Deggendorf	94469	3434	Suzuki
+Riko	Bauch	09.08.1978	Schinaglstr	3	Deggendorf	94469	654568	Kawasaki
+Erik	Karlsberg	02.01.1990	Graflingerstr	42	Deggendorf	94469	1678787	Honda
+Lambo	Takonava	09.08.1990	Piracherstr	7	Deggendorf	6789	7898	BMW_650_GS
